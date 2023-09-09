@@ -37,4 +37,4 @@ st.write("uno puede usar python instalandolo a través de la página oficial de 
 
 st.subheader("conocimientos basicos en python")
 
-st.write("En el menú de la izquierda podran acceder a unos conocimientos basicos de la programacion en python, ademas de algunos video tutoriales si quieren seguir aprendiendo")
+st.write("En el menú de la izquierda o apretando la flechita arriba a la izquierda, podran acceder a unos conocimientos basicos de la programacion en python, ademas de algunos video tutoriales si quieren seguir aprendiendo")
