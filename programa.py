@@ -15,7 +15,7 @@ st.subheader("¿De qué trata esta página?")
 st.write("En esta pagina se hablara sobre qué es python, para qué sirve, algunos conceptos basicos y porqué es importante que los chicos de tercero sepan sobre python, ¡pero incluso si no sos de tercero esta pagina te podría interesar!")
 
 image = Image.open("python.png")
-st.image(image,width=600)
+st.image(image)
 
 st.subheader("¿Por qué es importante que los de terceros aprendan python?")
 
