@@ -17,12 +17,12 @@ st.write("En esta pagina se hablara sobre qué es python, para qué sirve, algun
 image = Image.open("python.png")
 st.image(image)
 
-st.subheader("¿Por qué es importante que los de terceros aprendan python?")
+st.subheader("¿Por qué es importante que los de tercer año de mi escuela conozcan python?")
 
 image2 = Image.open("codeando.png")
 st.image(image2)
 
-st.write("Es importante debido a que en tercer año, uno tiene que elegir la orientación que va a seguir, programación o redes, pero hay veces que los alumnos no saben que se hace en programación y eligen sin que se hace en esa orientación. Además, hay muchas mujeres que no eligen programación, ya que está visto comúnmente como algo que es solo para hombres.")
+st.write("Es importante debido a que en tercer año, uno tiene que elegir la orientación que va a seguir, programación o redes, pero hay veces que los alumnos no saben que se hace en programación y eligen sin saber que se hace en esa orientación. Además, hay muchas mujeres que no eligen programación, ya que está visto comúnmente como algo que es solo para hombres.")
 
 st.subheader("¿Por qué usar python?")
 
