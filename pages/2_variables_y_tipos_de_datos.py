@@ -3,7 +3,7 @@ from PIL import Image
 
 st.title("variables y tipos de datos")
 
-st.write("las variables son donde uno va a guardar los datos que utilizará en su programa, en python uno declara una variable simplemente escribiendo Nombre = Valor . en el espacio de Nombre uno elige el nombre que quiere ponerle a la variable y en Valor pones el dato que queres ponerle a la variable, pero… ¿que tipos de datos hay?")
+st.write("las variables son donde uno va a guardar los datos que utilizará en su programa, en python uno declara una variable simplemente escribiendo Nombre = Valor . En el espacio de Nombre uno elige el nombre que quiere ponerle a la variable y en Valor pones el dato que queres ponerle a la variable, pero… ¿qué tipos de datos hay?")
 
 image2 = Image.open("variable.png")
 st.image(image2,caption="variables en python")
