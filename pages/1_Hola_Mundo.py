@@ -3,7 +3,7 @@ from PIL import Image
 
 st.title("Hola mundo en python")
 
-st.write("escribir hola mundo es comunmente lo primero que se hace cuando se utiliza un nuevo lenguaje de programación.")
+st.write("escribir hola mundo es comúnmente lo primero que se hace cuando se utiliza un nuevo lenguaje de programación.")
 
 st.subheader("Escribir Hola Mundo")
 
